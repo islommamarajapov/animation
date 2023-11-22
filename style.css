@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    background-image: url('./75a79399a6f6ced179904b865880d815.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 360px;
+    margin-top: 150px;
+    margin-left: 70px;
+    transition: filter 1s;
+    overflow: hidden;
+}
+.box:hover{
+    filter: brightness(0.7);
+}
+.div{
+    color: #fff;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.lorem{
+    color: #fff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: #fff;
+    border: #000;
+    margin-left: 55px;
+}
+.block{
+    width: 250px;
+    height: 600px;
+    position: relative;
+    top: 323px;
+    line-height: 30px;
+    margin-left: 30px;
+    transition: all .9s ease-in-out;
+    cursor: pointer;
+}
+.block:hover{
+    position: relative;
+    top: 80px;
+}
+.container{
+    display: flex;
+}
+.box1{
+    background-image: url('./health-benefits-of-beach-clouds-1595450687.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 360px;
+    margin-top: 150px;
+    margin-left: 70px;
+    transition: filter 1s;
+    overflow: hidden;
+}
+.box1:hover{
+    filter: brightness(0.7);
+}
+.box2{
+    background-image: url('./6D2A3115.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 360px;
+    margin-top: 150px;
+    margin-left: 70px;
+    transition: filter 1s;
+    overflow: hidden;
+}
+.box2:hover{
+    filter: brightness(0.7);
+}
+.box3{
+    background-image: url('./Свет_от_деревни_-_panoramio.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 360px;
+    margin-top: 150px;
+    margin-left: 70px;
+    transition: filter 1s;
+    overflow: hidden;
+}
+.box3:hover{
+    filter: brightness(0.7);
+}
